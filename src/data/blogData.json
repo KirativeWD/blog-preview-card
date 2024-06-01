@@ -1,0 +1,9 @@
+{
+    "illustration": "./images/illustration-article.svg",
+    "category": "Learning",
+    "data": "21 Dec 2023",
+    "title": "HTML & CSS foundations",
+    "preview": "These languages are the backbone of every website, defining structure, content, and presentation.",
+    "avatar": "./images/image-avatar.webp",
+    "author": "Greg Hooper"
+}
