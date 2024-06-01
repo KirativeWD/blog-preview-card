@@ -14,17 +14,21 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 
 ## Overview
 
+- Created a customizable JSON file to update the inner content and brand color depending on the category
+- Updated the grey color from hsl(0 0% 50%) to hsl(0 0% 35%) to pass WCAG AAA standards
+
 ### The challenge
 
 Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
+- Dynamically change brand color depending on the category input in blogData (Learning, Tips & Tricks, and Trends)
 
 ### Screenshot
 
 ### Links
 
-- Solution Live Site : [GH Pages](https://your-solution-url.com)
+- Solution Live Site : [GH Pages](https://kirativewd.github.io/blog-preview-card/)
 - Solutions List: [KirativeWD Solutions](https://www.frontendmentor.io/profile/KirativeWD/solutions)
 
 ## My process
@@ -36,6 +40,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Kirative Designs](Kirative Designs)
+- Personal Website - [Kirative Designs](https://kirativedesigns.com)
 - Frontend Mentor - [KirativeWD](https://www.frontendmentor.io/profile/KirativeWD)
 - LinkedIn - [Kira Tantari](https://www.linkedin.com/in/kira-tantari/)
