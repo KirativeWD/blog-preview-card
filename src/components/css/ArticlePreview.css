@@ -23,7 +23,6 @@
 }
 
 .article-preview__illustration,
-header,
 .article-preview__preview {
     margin-bottom: var(--space-150);
 }
@@ -32,6 +31,7 @@ header {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    margin-bottom: 0.75rem;
 }
 
 .article-preview__category {
