@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Figtree';
     font-weight: 500;
-    src: url(./fonts/Figtree-SemiBold.woff2) format(woff2), url(./fonts/Figtree-SemiBold.woff) format(woff);
+    src: url(../fonts/Figtree-SemiBold.woff2) format(woff2), url(../fonts/Figtree-SemiBold.woff) format(woff);
 }
 
 @font-face {
     font-family: 'Figtree';
     font-weight: 800;
-    src: url(./fonts/Figtree-ExtraBold.woff2) format(woff2), url(./fonts/Figtree-ExtraBold.woff) format(woff);
+    src: url(../fonts/Figtree-ExtraBold.woff2) format(woff2), url(../fonts/Figtree-ExtraBold.woff) format(woff);
 }
 
 :root {
