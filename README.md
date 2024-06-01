@@ -25,6 +25,10 @@ Users should be able to:
 - Dynamically change brand color depending on the category input in blogData (Learning, Tips & Tricks, and Trends)
 
 ### Screenshot
+![Desktop preview of KirativeWD's blog preview card](https://github.com/KirativeWD/blog-preview-card/assets/46665152/49286d2b-c5de-4c9d-945d-1dce68d0c0c2)
+![Desktop preview of KirativeWD's blog preview card in hover state](https://github.com/KirativeWD/blog-preview-card/assets/46665152/86f15cf6-aec7-4147-8b81-9b3861830136)
+
+
 
 ### Links
 
