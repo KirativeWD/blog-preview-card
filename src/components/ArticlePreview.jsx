@@ -29,7 +29,7 @@ function ArticlePreview({ blogData }) {
                 <img className="article-preview__illustration" src={blogData.illustration} alt="" />
                 <header>
                     <p className="article-preview__category">{blogData.category}</p>
-                    <p className="article-preview__date">Published <time>21 Dec 2023</time></p>
+                    <p className="article-preview__date">Published <time datetime="2023-12-21">21 Dec 2023</time></p>
                     <h1>{blogData.title}</h1>
                 </header>
                 <p className="article-preview__preview">{blogData.preview}</p>
